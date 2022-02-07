@@ -1,0 +1,15 @@
+C:\Users\noahl\source\repos\TesterforMilestone3\bin\Debug\net6.0\TesterforMilestone3.exe
+C:\Users\noahl\source\repos\TesterforMilestone3\bin\Debug\net6.0\TesterforMilestone3.deps.json
+C:\Users\noahl\source\repos\TesterforMilestone3\bin\Debug\net6.0\TesterforMilestone3.runtimeconfig.json
+C:\Users\noahl\source\repos\TesterforMilestone3\bin\Debug\net6.0\TesterforMilestone3.dll
+C:\Users\noahl\source\repos\TesterforMilestone3\bin\Debug\net6.0\ref\TesterforMilestone3.dll
+C:\Users\noahl\source\repos\TesterforMilestone3\bin\Debug\net6.0\TesterforMilestone3.pdb
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.AssemblyInfoInputs.cache
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.AssemblyInfo.cs
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.dll
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\ref\TesterforMilestone3.dll
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.pdb
+C:\Users\noahl\source\repos\TesterforMilestone3\obj\Debug\net6.0\TesterforMilestone3.genruntimeconfig.cache
